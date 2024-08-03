@@ -53,14 +53,21 @@ const config = {
   experiences: [
     {
       company: 'WEC Energy Group',
-      position: 'Intern - IT Telecom and Infrastructure Operations',
-      from: 'May 2023',
+      position: 'Associate IT Infrastructure Consultant - Network Operations',
+      from: 'August 2024',
       to: 'Present',
       companyLink: 'https://www.wecenergygroup.com/',
     },
     {
+      company: 'WEC Energy Group',
+      position: 'Intern - IT Telecom and Infrastructure Operations',
+      from: 'May 2023',
+      to: 'July 2024',
+      companyLink: 'https://www.wecenergygroup.com/',
+    },
+    {
       company: 'University of Wisconsin Milwaukee',
-      position: 'Lead Audio Visual Technician - Union Event Services',
+      position: 'Lead Audio Visual Technician & Production Lead - Union Event Services',
       from: 'August 2022',
       to: 'Present',
       companyLink: 'https://uwm.edu/union/evs/',
